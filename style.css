@@ -1,10 +1,10 @@
 :root {
-    --color-primary: #4B69FD;
-    --color-secondary: #FFF9EB;
-    --color-tertiary: #C4C4C4;
-    --color-button: #fe652b;
-    --color-button-hover: #e55720;
-    --color-text: #444444;
+    --color-primary: #634385;
+    --color-secondary: #b1b1d8;
+    --color-tertiary: #babfc9;
+    --color-button: #0e6bb8;
+    --color-button-hover: #3487ad;
+    --color-text: #15111d;
     --color-white: #FFFFFF;
 }
 
@@ -32,11 +32,14 @@ body {
 
 /* Banner */
 .header-banner {
-    flex: 40%;
+    flex: 05%;
     display: flex;
-    justify-content: center;
+    justify-content:center;
     align-items: center;
-    padding: 40px 0 0;
+    height: auto; 
+    width: 100%;
+    padding: 60px;
+    opacity: 0.6;
 }
 
 /* Seção de entrada */
@@ -50,15 +53,6 @@ body {
     align-items: center;
     padding: 20px;
     width: 100%;
-}
-
-/* Títulos */
-.main-title {
-    font-size: 48px;
-    font-family: "Merriweather", serif;
-    font-weight: 900;
-    font-style: italic;
-    color: var(--color-white);
 }
 
 .section-title {
@@ -80,11 +74,11 @@ body {
 }
 
 .input-name {
-    width: 100%;
-    padding: 10px;
-    border: 2px solid #000;
+    width: 150%;
+    padding: 50px;
+    border: 50px solid #1d1c1c;
     border-radius: 25px 0 0 25px;
-    font-size: 16px;
+    font-size: 10px;
 }
 
 .button-container {
@@ -97,11 +91,11 @@ body {
     flex: 1;
     padding: 10px 15px;
     font-size: 16px;
-    border: 2px solid #333;
+    border: 5px solid #333;
     border-right: none;
-    border-radius: 25px 0 0 25px;
+    border-radius: 20px 0 0 20px;
     font-family: "Merriweather", serif;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
 }
 
 /* Estilos de botão */
@@ -111,8 +105,9 @@ button {
     font-size: 16px;
     border: 2px solid #000;
     border-radius: 25px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 4px 8px rgba(5, 0, 0, 0.3);
     cursor: pointer;
+
 }
 
 .button-add {
@@ -122,7 +117,7 @@ button {
 }
 
 .button-add:hover {
-    background-color: #a1a1a1;
+    background-color: #dad3d3;
 }
 
 /* Listas */
@@ -132,11 +127,12 @@ ul {
     font-family: "Inter", sans-serif;
     font-size: 18px;
     margin: 20px 0;
+    border-radius: 25px;
 }
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
+    color: #000000;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
@@ -144,18 +140,22 @@ ul {
 
 /* Botão de sortear título */
 .button-draw {
-    display: flex;
+    display: flex   ;
     align-items: center;
-    width: 100%;
+    width: 70%;
     padding: 10px 40px;
     color: var(--color-white);
     background-color: var(--color-button);
     font-size: 16px;
+    border-radius: 25px;
+    
 }
 
 .button-draw img {
-    margin-right: 40px;
-}
+        margin-right: 20px; /* Ajuste a margem se necessário */
+        width: 30px; /* Ajuste o valor para diminuir ou aumentar o tamanho da imagem */
+        height: auto; /* Isso garante que a imagem mantenha sua proporção */
+    }
 
 .button-draw:hover {
     background-color: var(--color-button-hover);
