@@ -27,15 +27,20 @@ https://github.com/user-attachments/assets/2a9864dc-c422-4d45-9a1a-c3b08503c9b2
 
 🛠️ Abrir e rodar o projeto
   
-file:///C:/Users/Usu%C3%A1rio/Documents/Amigo%20Secreto/amigoSecreto.html
+Link para acesso - file:///C:/Users/Usu%C3%A1rio/Documents/Amigo%20Secreto/amigoSecreto.html
   
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 
-JavaScript
-HTML
-CSS
+.JavaScript
 
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
+.HTML
+
+.CSS
+
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+  
+  | ![imagem](https://github.com/user-attachments/assets/d8fdc1cf-b8be-4527-9e64-e61b61de9273)(https://github.com/Sarah.Steoliv) |
+
+
 * [Licença](#licença)
 * [Conclusão](#conclusão)
