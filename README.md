@@ -24,12 +24,11 @@ https://github.com/user-attachments/assets/2a9864dc-c422-4d45-9a1a-c3b08503c9b2
  
 # [Acesso ao Projeto](#acesso-ao-projeto)
 
-🛠️ Abrir e rodar o projeto
   
 🌍 **Acesse o Projeto**  
 Você pode acessar o projeto online clicando no link abaixo:
 
-👉 [Jogo Amigo Secreto](file:///C:/Users/Usu%C3%A1rio/Documents/Amigo%20Secreto/amigoSecreto.html)
+<p>👉 <a href="file:///C:/Users/Usu%C3%A1rio/Documents/Amigo%20Secreto/amigoSecreto.html">Jogo Amigo Secreto</a></p>
   
 # [Tecnologias utilizadas](#tecnologias-utilizadas)
 
