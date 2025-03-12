@@ -18,7 +18,7 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=Finalizado&color=GREEN&style=for-the-badge"/>
 </p>
 
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+#* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 
 https://github.com/user-attachments/assets/2a9864dc-c422-4d45-9a1a-c3b08503c9b2
 
@@ -27,15 +27,18 @@ https://github.com/user-attachments/assets/2a9864dc-c422-4d45-9a1a-c3b08503c9b2
 
 🛠️ Abrir e rodar o projeto
   
-Link para acesso - file:///C:/Users/Usu%C3%A1rio/Documents/Amigo%20Secreto/amigoSecreto.html
+🌍 Acesse o Projeto  
+Você pode acessar o projeto online clicando no link abaixo:
+
+👉 [Jogo Amigo Secreto](file:///C:/Users/Usu%C3%A1rio/Documents/Amigo%20Secreto/amigoSecreto.html)
   
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 
-.JavaScript
+.📚 HTML5
 
-.HTML
+.🎨 CSS3
 
-.CSS
+.📜 JavaScript
 
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 
