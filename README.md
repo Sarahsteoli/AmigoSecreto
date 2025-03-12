@@ -39,7 +39,8 @@ Link para acesso - file:///C:/Users/Usu%C3%A1rio/Documents/Amigo%20Secreto/amigo
 
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
   
-  | ![imagem](https://github.com/user-attachments/assets/d8fdc1cf-b8be-4527-9e64-e61b61de9273)(https://github.com/Sarah.Steoliv) |
+  ![imagem](https://github.com/user-attachments/assets/d8fdc1cf-b8be-4527-9e64-e61b61de9273)|
+  <sub>Sarah Stephanie</sub>
 
 
 * [Licença](#licença)
