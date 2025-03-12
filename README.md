@@ -19,6 +19,10 @@
 </p>
 
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+
+https://github.com/user-attachments/assets/2a9864dc-c422-4d45-9a1a-c3b08503c9b2
+
+
   
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
