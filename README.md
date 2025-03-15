@@ -14,8 +14,7 @@
 
 # [Status do Projeto](#status-do-Projeto)
 
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=Finalizado&color=GREEN&style=for-the-badge"/>
-</p>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=Finalizado&color=GREEN&style=for-the-badge"/></p>
 
 # [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 
