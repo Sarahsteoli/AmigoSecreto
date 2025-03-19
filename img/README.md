@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> bb862ff (Added new features to the project)
-<h1 align="center"> Amigo Secreto </h1>
-
 ![89ef70a6-b9ed-4aa9-a519-a31319fa9614](https://github.com/user-attachments/assets/0ade39b4-1368-44ff-9ed9-a8564c5b409f)
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/SarahStephanie?style=social)
@@ -30,7 +24,7 @@ https://github.com/user-attachments/assets/2a9864dc-c422-4d45-9a1a-c3b08503c9b2
 🌍 **Acesse o Projeto**  
 Você pode acessar o projeto online clicando no link abaixo:
 
- [Jogo Amigo Secreto] file:///C:/Users/Usu%C3%A1rio/Documents/Amigo%20Secreto/amigoSecreto.html
+[Jogo Amigo Secreto](https://sarahsteoli.github.io/AmigoSecreto/)
   
 # [Tecnologias utilizadas](#tecnologias-utilizadas)
 
